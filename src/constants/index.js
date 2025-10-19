@@ -1,4 +1,4 @@
-const navLinks=[
+export const navLinks=[
                     {label:"store"},
                     {label:"Mac"},
                     {label:"iPhone"},
